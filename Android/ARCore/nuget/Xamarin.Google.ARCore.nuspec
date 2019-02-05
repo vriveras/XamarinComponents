@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Xamarin.Google.ARCore</id>
-    <title>Xamarin Google ARCore</title>
-    <version>$version$</version>
+    <id>Xamarin.Google.ARCore.Internal</id>
+    <title>Xamarin Google ARCore Internal</title>
+    <version>2019.1.6.1</version>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
